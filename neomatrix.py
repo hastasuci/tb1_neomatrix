@@ -1,4 +1,6 @@
 import re
+import os 
+os.system("cls")
 
 print("Enter the matrix script:")
 
