@@ -1,3 +1,8 @@
+====================\
+HOW TO USE THIS PROGRAM 
+==================== 
+
+
 Enter the matrix script\
 for example:
 
