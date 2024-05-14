@@ -1,11 +1,8 @@
-====================\
-HOW TO USE THIS PROGRAM 
-==================== 
+This program can read matrix script from external file named 'encode.txt'
+then the matrix script will changed into decoded text that is read from the top of first column to the next cell down until the last cell of last column  (alphabet only without character)
 
-
-Enter the matrix script\
-for example:
-
+Output: \
+The matrix script: \
 7 3 \
 Tsi \
 h%x \
@@ -15,7 +12,4 @@ $a  \
 #t% \
 ir! 
 
-then click enter 2 times
-
-Output\
-Decode: This is Matrix
+Decoded text: This is Matrix
