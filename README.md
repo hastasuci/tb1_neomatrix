@@ -12,9 +12,9 @@ $a  \
 #t% \
 ir! 
 
-Decoded script: This is Matrix#  %!
+Decoded text: This is Matrix#  %!
 
------------------------------------------------------------------------------------------------------------------------------------------\
+-------------------------------------------------------------------------------------------------------------------------------\
 If you want to try with another matrix script, here is the matrix format and constraint that can decoded by this program.
 
 MATRIX FORMAT\
